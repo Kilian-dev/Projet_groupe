@@ -8,6 +8,7 @@ namespace Projet_groupe
 {
     class Program
     {
+        static int PrA;
         static void Main(string[] args)
 
         { 
